@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YoBro24/SilentAim/refs/heads/main/Protected_6059099048779151.txt",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/YoBro24/SilentAim/refs/heads/main/Protected_8436984969469932.txt",true))()
