@@ -1,7 +1,4 @@
-print([[
-█▀ █▀▀ █▄░█ ▀█▀ █ █▄░█ █▀▀ █░░ ░ █▀▀ █▀▀
-▄█ ██▄ █░▀█ ░█░ █ █░▀█ ██▄ █▄▄ ▄ █▄▄ █▄▄
-]])
-
+print("█▀  █▀▀  █▄░█  ▀█▀  █  █▄░█  █▀▀  █░░  ░  █▀▀  █▀▀")
+print("▄█  ██▄  █░▀█  ░█░  █  █░▀█  ██▄  █▄▄  ▄  █▄▄  █▄▄")
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/YoBro24/SilentAim/refs/heads/main/Protected_6691827188268649.txt",true))()
