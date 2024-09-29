@@ -1,6 +1,7 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Ohiogyatskibidirizz3000/Sigma/refs/heads/main/Sigma",true))()
+print([[
+█▀ █▀▀ █▄░█ ▀█▀ █ █▄░█ █▀▀ █░░ ░ █▀▀ █▀▀
+▄█ ██▄ █░▀█ ░█░ █ █░▀█ ██▄ █▄▄ ▄ █▄▄ █▄▄
+]])
 
-Library:CreateWatermark("Sentinel.cc", Vector3.new(3.22891616821289, 45.62649536132812, 0))
 
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YoBro24/SilentAim/refs/heads/main/Protected_8436984969469932.txt",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/YoBro24/SilentAim/refs/heads/main/Protected_6691827188268649.txt",true))()
